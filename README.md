@@ -3,10 +3,16 @@ This is a simple implementation of the Tic-Tac-Toe game in Java. It allows two p
 
 
 USAGE:
+
+
 To run the game, clone the repository and compile the TicTacToe.java file with the following command:
 
 javac TicTacToe.java
+
+
 Then, run the compiled class file with the following command:
 
 java TicTacToe
+
+
 This will start the game and prompt the first player to enter their move. The players will take turns entering the row and column where they want to place their mark (X or O). The game will continue until someone wins or there are no more empty spaces on the grid.
